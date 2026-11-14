@@ -1,22 +1,22 @@
 // =======================================================
 // WEBSITE NAME (NICKNAME)
 // =======================================================
-var website_name = "YASIN";
+var website_name = "69x Top up";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "telegram channel link";
+var telegram_channel_link = "https://t.me/+Zdxsmrc8Zx0yOTll";
 
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
-var telegram_group_link = "telegram group link";
+var telegram_group_link = "https://t.me/+MbKxMLPwm-U0Njk1";
 
 // =======================================================
 // YOUTUBE CHANNEL LINK
 // =======================================================
-var youtube_channel_link = "YouTube channel link";
+var youtube_channel_link = "https://youtube.com/@jr.advancegaming?si=HrYjFKUAmVNK02aG";
 
 // =======================================================
 // NOTIFICATION TEXT
